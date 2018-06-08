@@ -1,0 +1,12 @@
+.title {
+   color: grey;
+}
+
+.description {
+   color: black;
+}
+
+body {
+   font: "Lucida Console", sans-serif;
+   font-weight: normal;
+}
