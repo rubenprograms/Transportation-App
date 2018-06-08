@@ -37,7 +37,7 @@ ReactDOM.render(
  */
 function Title(props)
 {
-   return <h3 class="title">{props.title}</h3>
+   return <h3 className="title">{props.title}</h3>
 }
 
 /**
@@ -47,7 +47,7 @@ function Title(props)
  */
 function Description(props)
 {
-   return <h3 class="description">{props.desciption}</h3>
+   return <h3 className="description">{props.desciption}</h3>
 }
 
 /**
